@@ -1,0 +1,9 @@
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\bin\Debug\Hangover.exe.config
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\bin\Debug\Hangover.exe
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\bin\Debug\Hangover.pdb
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.csprojResolveAssemblyReference.cache
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.Form1.resources
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.Properties.Resources.resources
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.csproj.GenerateResource.Cache
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.exe
+c:\users\ithelpdesk\documents\visual studio 2015\Projects\Hangover\Hangover\obj\Debug\Hangover.pdb
